@@ -1,0 +1,84 @@
+{
+  "sentences": [
+    {
+      "text": "MSHA Safety Alert \u2014 Electric Arc Flashes (Official Text) In the last six months, 11 miners received injuries due to electric arc flashes.",
+      "start": 0.035,
+      "end": 11.215
+    },
+    {
+      "text": "Best Practices \u2014 MSHA Required Checklist Establish safe procedures before beginning work and discuss the plan with all miners involved in the task.",
+      "start": 11.656,
+      "end": 22.314
+    },
+    {
+      "text": "Electricians must know how to de-energize and disconnect electrical systems and equipment.",
+      "start": 22.918,
+      "end": 29.036
+    },
+    {
+      "text": "Use properly rated electrical meters and personal protective equipment, such as electrically rated gloves, insulated blankets or mats, and polycarbonate barriers.",
+      "start": 29.036,
+      "end": 39.833
+    },
+    {
+      "text": "Lock out and tag out circuits before working on electrical equipment: Identify and control all hazardous energy sources before conducting any task.",
+      "start": 39.833,
+      "end": 50.502
+    },
+    {
+      "text": "Open the circuit breaker or load break switch to de-energize the incoming power cables or conductors.",
+      "start": 50.502,
+      "end": 56.969
+    },
+    {
+      "text": "Open the visual disconnect to confirm incoming power is off.",
+      "start": 56.969,
+      "end": 60.87
+    },
+    {
+      "text": "Lockout/Tagout the visual disconnect.",
+      "start": 60.87,
+      "end": 64.992
+    },
+    {
+      "text": "Ground the de-energized conductors.",
+      "start": 64.992,
+      "end": 67.941
+    },
+    {
+      "text": "S.",
+      "start": 67.941,
+      "end": 68.208
+    },
+    {
+      "text": "Department of Labor, Mine Safety and Health Administration MSHA Training Videos.",
+      "start": 68.208,
+      "end": 76.718
+    },
+    {
+      "text": "MSHA's official video library covering electrical and other surface/underground mining hazards, used across the industry for required refresher training.",
+      "start": 77.507,
+      "end": 87.771
+    },
+    {
+      "text": "Debrief: Notice the time scale \u2014 fractions of a second from fault to full blast.",
+      "start": 87.771,
+      "end": 93.437
+    },
+    {
+      "text": "There is no \"pull your hand back\" reaction time.",
+      "start": 93.437,
+      "end": 96.397
+    },
+    {
+      "text": "The only effective protection is preventing the arc from initiating at all (de-energized work, proper procedure) and PPE rated for the available incident energy when energized work is unavoidable.",
+      "start": 97.651,
+      "end": 110.295
+    },
+    {
+      "text": "MSHA's own data shows electricians and mechanics account for the majority of arc flash injuries in mining, but preparation/plant workers and other trades are also represented \u2014 proximity to the work, not just job title, drives the risk.",
+      "start": 114.056,
+      "end": 129.857
+    }
+  ]
+}

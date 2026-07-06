@@ -1,0 +1,74 @@
+{
+  "sentences": [
+    {
+      "text": "An arc flash is a release of energy caused by an electric arc \u2014 current leaving its intended path and traveling through air between conductors, or between a conductor and ground.",
+      "start": 0.035,
+      "end": 10.112
+    },
+    {
+      "text": "In an MCC bucket or e-house lineup, that gap can be closed by a dropped tool, a loose connection, dust and moisture buildup, rodent damage, or a slip of a meter probe.",
+      "start": 10.623,
+      "end": 23.116
+    },
+    {
+      "text": "The arc itself burns at up to 35,000\u00b0F \u2014 roughly four times hotter than the surface of the sun.",
+      "start": 23.116,
+      "end": 30.268
+    },
+    {
+      "text": "It produces: Intense heat capable of vaporizing copper and causing third-degree burns at several feet.",
+      "start": 31.069,
+      "end": 39.126
+    },
+    {
+      "text": "An arc blast \u2014 a pressure wave that can exceed hundreds of pounds per square foot, throwing people and equipment doors.",
+      "start": 39.126,
+      "end": 46.626
+    },
+    {
+      "text": "Molten metal spray and shrapnel from vaporized conductors and enclosure components.",
+      "start": 47.23,
+      "end": 52.745
+    },
+    {
+      "text": "Blinding light and sound exceeding 140 decibels \u2014 equivalent to a gunshot at close range.",
+      "start": 52.745,
+      "end": 59.653
+    },
+    {
+      "text": "Why MCCs & E-Houses specifically: Motor control centers and e-houses concentrate many breakers, starters, and bus connections in a small footprint, often at higher fault currents than a typical panelboard.",
+      "start": 60.094,
+      "end": 74.827
+    },
+    {
+      "text": "Bucket pull-out/in operations, racking breakers, and meter testing inside these enclosures are among the highest-frequency arc flash exposure tasks in industrial and life-safety facilities.",
+      "start": 74.827,
+      "end": 87.841
+    },
+    {
+      "text": "A note for mine sites: MSHA, not OSHA, has jurisdiction over electrical safety at mine sites (30 CFR Part 56/57, Subpart K), and MSHA's own regulations have not formally adopted NFPA 70E the way most general industry has.",
+      "start": 87.841,
+      "end": 107.485
+    },
+    {
+      "text": "That said, many mine operators \u2014 including Freeport-McMoRan \u2014 require NFPA 70E compliance as part of their site electrical safety program, even though it isn't an MSHA mandate.",
+      "start": 107.485,
+      "end": 120.082
+    },
+    {
+      "text": "At Freeport-McMoRan specifically, completing this training is what qualifies you to enter MCC rooms and e-houses at all \u2014 a site electrician opens the space and briefs you on anything specific to that location before you begin fire alarm or life-safety work.",
+      "start": 120.64,
+      "end": 136.754
+    },
+    {
+      "text": "As a fire protection professional, the general rule is to stay out of energized areas above 60V and ask the site electrician to de-energize when possible \u2014 this training covers hazard awareness, not electrical work authorization.",
+      "start": 137.265,
+      "end": 151.127
+    },
+    {
+      "text": "In a recent 6-month MSHA reporting period, 11 miners were injured by electric arc flashes \u2014 including incidents during routine breaker box maintenance, the exact kind of task fire/life-safety techs often need access near.",
+      "start": 151.731,
+      "end": 166.325
+    }
+  ]
+}

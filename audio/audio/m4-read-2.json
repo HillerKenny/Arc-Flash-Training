@@ -1,0 +1,24 @@
+{
+  "sentences": [
+    {
+      "text": "In MCCs/E-Houses specifically: Bucket-level work often carries a different (sometimes higher) incident energy than the main bus due to fault current and clearing time differences \u2014 always check the bucket-specific label, not just the lineup's main label.",
+      "start": 0.046,
+      "end": 15.871
+    },
+    {
+      "text": "Jurisdiction note: MSHA (30 CFR Part 56/57) governs electrical safety at mine sites, not OSHA, and MSHA's own regulations have not formally adopted NFPA 70E as a federal requirement.",
+      "start": 16.568,
+      "end": 33.182
+    },
+    {
+      "text": "That said, your site's electrical safety program is what actually governs your day-to-day work \u2014 and at Freeport-McMoRan sites, NFPA 70E compliance is required as part of that program, and this training itself is what qualifies you to enter MCC rooms and e-houses at all.",
+      "start": 33.182,
+      "end": 51.746
+    },
+    {
+      "text": "Know your site's specific qualified-person and PPE category rules before you start; \"MSHA doesn't require it\" is not the same as \"my site doesn't require it.\"",
+      "start": 52.187,
+      "end": 64.273
+    }
+  ]
+}

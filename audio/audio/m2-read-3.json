@@ -1,0 +1,19 @@
+{
+  "sentences": [
+    {
+      "text": "If you're not the one racking breakers: Most fire/life-safety work in an MCC or e-house is installing or servicing detection, notification, or suppression-release wiring routed near or through these enclosures \u2014 not switching the gear itself.",
+      "start": 0.035,
+      "end": 17.299
+    },
+    {
+      "text": "That doesn't reduce your exposure: cable troughs, junction boxes, and conduit runs inside or adjacent to an energized lineup still put you inside the arc flash boundary.",
+      "start": 17.74,
+      "end": 30.186
+    },
+    {
+      "text": "Confirm with the area electrician or operations whether the specific bucket/cabinet you need access to can be de-energized for your task, and never assume \"I'm just running a wire\" exempts you from the label's PPE requirement.",
+      "start": 30.186,
+      "end": 43.84
+    }
+  ]
+}

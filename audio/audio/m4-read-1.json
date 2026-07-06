@@ -1,0 +1,24 @@
+{
+  "sentences": [
+    {
+      "text": "Always confirm against the site-specific arc flash study and equipment labeling \u2014 these are general reminders, not a substitute for your facility's hazard/risk category table.",
+      "start": 0.035,
+      "end": 8.835
+    },
+    {
+      "text": "The actual numbers \u2014 NFPA 70E Table 130.4(E)(a): For typical MCC/e-house voltages (151V\u2013750V, which covers standard 208V, 277V, and 480V systems): the Limited Approach Boundary is 3 feet 6 inches from a fixed part (10 feet from a movable/exposed conductor), and the Restricted Approach Boundary is 1 foot 0 inches.",
+      "start": 9.671,
+      "end": 38.29
+    },
+    {
+      "text": "That restricted distance is closer than it sounds \u2014 a worker standing in front of an open bucket reaching toward a terminal is often already inside it.",
+      "start": 38.499,
+      "end": 45.871
+    },
+    {
+      "text": "These numbers increase at higher voltages and are listed on your site's arc flash study; treat the figures above as the baseline for standard low-voltage MCC equipment, not a substitute for the equipment-specific label.",
+      "start": 46.196,
+      "end": 58.654
+    }
+  ]
+}
