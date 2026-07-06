@@ -1,0 +1,94 @@
+{
+  "sentences": [
+    {
+      "text": "At Freeport-McMoRan sites, completing this arc flash and NFPA 70E awareness training is what qualifies you to enter an MCC room or e-house in the first place \u2014 without that training, you are not permitted in these spaces at all, even with a site electrician present.",
+      "start": 0.035,
+      "end": 17.357
+    },
+    {
+      "text": "This module covers exactly how that access works once you're trained, so you know what to expect and what's expected of you.",
+      "start": 17.74,
+      "end": 25.751
+    },
+    {
+      "text": "How entry actually works here: Once you've completed this training, a site electrician opens the room or enclosure for you and gives you a site-specific briefing before you start work \u2014 covering things like higher voltage at a substation, unusual equipment in that specific room, or any other hazard particular to that location.",
+      "start": 25.751,
+      "end": 44.536
+    },
+    {
+      "text": "After that briefing, you can work on your own fire alarm and life-safety tasks in that space.",
+      "start": 45.139,
+      "end": 51.304
+    },
+    {
+      "text": "The general rule of thumb: fire protection professionals do not service or work on energized equipment above 60V \u2014 that work belongs to qualified site electricians.",
+      "start": 51.304,
+      "end": 63.773
+    },
+    {
+      "text": "If your task requires entering an area with exposed energized conductors above 60V, ask the electrician to de-energize the area first whenever possible.",
+      "start": 64.214,
+      "end": 75.998
+    },
+    {
+      "text": "This training gets the door opened and the hazard briefing done \u2014 it does not make you an electrician.",
+      "start": 75.998,
+      "end": 81.629
+    },
+    {
+      "text": "Before You Can Enter.",
+      "start": 82.895,
+      "end": 86.424
+    },
+    {
+      "text": "Complete this arc flash / NFPA 70E awareness training \u2014 this is the baseline requirement for entry at all.",
+      "start": 86.424,
+      "end": 95.143
+    },
+    {
+      "text": "Have a site electrician open the MCC room, e-house, or electrical room for you \u2014 you don't open these yourself.",
+      "start": 95.724,
+      "end": 102.817
+    },
+    {
+      "text": "If energized equipment above 60V is exposed in your work area, ask the electrician to de-energize it before you start.",
+      "start": 103.328,
+      "end": 111.328
+    },
+    {
+      "text": "Get the site-specific hazard briefing for that exact room before starting work (voltage level, layout quirks, anything unusual to that location).",
+      "start": 111.328,
+      "end": 121.301
+    },
+    {
+      "text": "Confirm you understand the briefing \u2014 ask questions before the electrician leaves, not after.",
+      "start": 121.301,
+      "end": 127.872
+    },
+    {
+      "text": "What This Doesn't Mean.",
+      "start": 128.383,
+      "end": 130.984
+    },
+    {
+      "text": "This training does not make you a qualified electrical worker \u2014 you do not open buckets, rack breakers, or service energized equipment above 60V.",
+      "start": 130.984,
+      "end": 138.797
+    },
+    {
+      "text": "Don't enter an MCC room or e-house without this training completed, even briefly, even for something that feels routine.",
+      "start": 139.308,
+      "end": 146.924
+    },
+    {
+      "text": "Don't assume \"I'm just installing a detector\" means you don't need to coordinate with the electrician about the energized equipment around you.",
+      "start": 146.924,
+      "end": 154.679
+    },
+    {
+      "text": "Don't skip the site-specific briefing because you've been in a similar room before \u2014 voltage and layout can differ room to room.",
+      "start": 154.679,
+      "end": 161.97
+    }
+  ]
+}
